@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chan Zewail</h1>
+<h1 align="center">Hi 👋, I'm Zewail</h1>
 <h3 align="center">A passionate web developer from Hangzhou. China</h3>
 
 - 🔭 I’m currently working on Netease en Hangzhou.
