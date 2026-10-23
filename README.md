@@ -1,3 +1,5 @@
+<!-- Hallmark · pre-emit critique: P4 H4 E4 S5 R5 V4 -->
+
 <h1 align="center">Hi, I'm Zewail</h1>
 
 <p align="center">
@@ -10,44 +12,65 @@
 </p>
 
 <p align="center">
-  <a href="https://www.zewail.org/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.pasteon.app/">Pasteon</a> &nbsp;·&nbsp;
+  <a href="https://www.zewail.org/"><strong>Portfolio ↗</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.pasteon.app/">Pasteon ↗</a> &nbsp;·&nbsp;
   <a href="mailto:chanzewail@gmail.com">Email</a>
 </p>
 
-## Products
+## Selected apps
 
-| Product | Platform | What it does |
-| :--- | :--- | :--- |
-| **[Pasteon](https://www.pasteon.app/)** | macOS | Search clipboard history, run custom workflows, and sync clips across nearby Macs. |
-| **[RightKit](https://apps.apple.com/us/app/rightkit-right-click-tools/id6800675908)** | macOS | Create files, convert images, and access everyday tools from Finder's right-click menu. |
-| **[Photoblot](https://apps.apple.com/us/app/photoblot-border-master/id6739862738)** | iOS | Add borders to photos and prepare them for sharing. |
-| **[Decibel Meter](https://apps.apple.com/us/app/decibel-meter-detector/id1576052678)** | iOS | Measure ambient sound, track noise levels, and export measurement reports. |
-| **[Hanzi Stroke](https://www.hanzistroke.app/)** | iOS | Learn Chinese characters with HSK lessons, animated stroke order, and vocabulary practice. |
+<table>
+<tr>
+  <td width="72" align="center" valign="middle"><a href="https://www.pasteon.app/"><img src="./assets/apps/pasteon.png" width="56" height="56" alt="Pasteon app icon"></a></td>
+  <td valign="middle"><strong><a href="https://www.pasteon.app/">Pasteon</a></strong> &nbsp; <code>macOS</code><br>Search clipboard history, run custom workflows, and sync clips across nearby Macs.</td>
+</tr>
+<tr>
+  <td width="72" align="center" valign="middle"><a href="https://apps.apple.com/us/app/rightkit-right-click-tools/id6800675908"><img src="./assets/apps/rightkit.png" width="56" height="56" alt="RightKit app icon"></a></td>
+  <td valign="middle"><strong><a href="https://apps.apple.com/us/app/rightkit-right-click-tools/id6800675908">RightKit</a></strong> &nbsp; <code>macOS</code><br>Create files, convert images, and access everyday tools from Finder's right-click menu.</td>
+</tr>
+<tr>
+  <td width="72" align="center" valign="middle"><a href="https://apps.apple.com/us/app/photoblot-border-master/id6739862738"><img src="./assets/apps/photoblot.jpg" width="56" height="56" alt="Photoblot app icon"></a></td>
+  <td valign="middle"><strong><a href="https://apps.apple.com/us/app/photoblot-border-master/id6739862738">Photoblot</a></strong> &nbsp; <code>iOS</code><br>Add borders to photos and prepare them for sharing.</td>
+</tr>
+<tr>
+  <td width="72" align="center" valign="middle"><a href="https://apps.apple.com/us/app/decibel-meter-detector/id1576052678"><img src="./assets/apps/decibel-meter.jpg" width="56" height="56" alt="Decibel Meter app icon"></a></td>
+  <td valign="middle"><strong><a href="https://apps.apple.com/us/app/decibel-meter-detector/id1576052678">Decibel Meter</a></strong> &nbsp; <code>iOS</code><br>Measure ambient sound, track noise levels, and export measurement reports.</td>
+</tr>
+<tr>
+  <td width="72" align="center" valign="middle"><a href="https://www.hanzistroke.app/"><img src="./assets/apps/hanzi-stroke.jpg" width="56" height="56" alt="Hanzi Stroke app icon"></a></td>
+  <td valign="middle"><strong><a href="https://www.hanzistroke.app/">Hanzi Stroke</a></strong> &nbsp; <code>iOS</code><br>Learn Chinese characters with HSK lessons, animated stroke order, and vocabulary practice.</td>
+</tr>
+</table>
 
-Explore the full collection at **[zewail.org](https://www.zewail.org/#work)**.
+Browse the full collection at **[zewail.org ↗](https://www.zewail.org/#work)**.
 
 ### In progress
 
-- **Say Chinese** · Mandarin practice with everyday dialogues, natural audio, pinyin, and daily review.
-- **Little Art** · Save children's artwork with their stories and voice, then make a printable art book.
+<table>
+<tr>
+  <td width="72" align="center" valign="middle"><img src="./assets/apps/say-chinese.png" width="48" height="48" alt="Say Chinese app icon"></td>
+  <td valign="middle"><strong>Say Chinese</strong> &nbsp; <code>iOS · In development</code><br>Mandarin practice with everyday dialogues, natural audio, pinyin, and daily review.</td>
+</tr>
+<tr>
+  <td width="72" align="center" valign="middle"><img src="./assets/apps/little-art.png" width="48" height="48" alt="Little Art app icon"></td>
+  <td valign="middle"><strong>Little Art</strong> &nbsp; <code>iOS · In development</code><br>Save children's artwork with their stories and voice, then make a printable art book.</td>
+</tr>
+</table>
 
 ## Open source
 
-Some of the developer tools I've built:
-
-| Project | Description |
-| :--- | :--- |
-| **[think-api](https://github.com/czewail/think-api)** | API tools for ThinkPHP, including versioned routes, response helpers, and JWT support. |
-| **[koa2-api](https://github.com/czewail/koa2-api)** | Koa middleware for consistent REST API responses. |
-| **[node-is-class](https://github.com/czewail/node-is-class)** | A small Node.js utility for checking whether a function is an ES6 class. |
+- **[think-api](https://github.com/czewail/think-api)** · API tools for ThinkPHP, including versioned routes, response helpers, and JWT support.
+- **[koa2-api](https://github.com/czewail/koa2-api)** · Koa middleware for consistent REST API responses.
+- **[node-is-class](https://github.com/czewail/node-is-class)** · A small Node.js utility for checking whether a function is an ES6 class.
 
 ## Toolkit
 
-- **Web** · TypeScript, React, Next.js, Node.js
-- **Apps** · Swift, Flutter, Dart
-- **Backend** · PHP, ThinkPHP, Koa
+**Web** &nbsp; `TypeScript` `React` `Next.js` `Node.js`<br>
+**Apps** &nbsp; `Swift` `Flutter` `Dart`<br>
+**Backend** &nbsp; `PHP` `ThinkPHP` `Koa`
 
-## Get in touch
+---
 
-For product feedback or collaboration, reach me at **[chanzewail@gmail.com](mailto:chanzewail@gmail.com)**.
+<p align="center">
+  Product feedback or collaboration: <a href="mailto:chanzewail@gmail.com"><strong>chanzewail@gmail.com ↗</strong></a>
+</p>
