@@ -19,7 +19,7 @@
 
 ## Selected apps
 
-<table>
+<table width="100%">
 <tr>
   <td width="72" align="center" valign="middle"><a href="https://www.pasteon.app/"><img src="./assets/apps/pasteon.png" width="56" height="56" alt="Pasteon app icon"></a></td>
   <td valign="middle"><strong><a href="https://www.pasteon.app/">Pasteon</a></strong> &nbsp; <code>macOS</code><br>Search clipboard history, run custom workflows, and sync clips across nearby Macs.</td>
@@ -46,7 +46,7 @@ Browse the full collection at **[zewail.org ↗](https://www.zewail.org/#work)**
 
 ### In progress
 
-<table>
+<table width="100%">
 <tr>
   <td width="72" align="center" valign="middle"><img src="./assets/apps/say-chinese.png" width="48" height="48" alt="Say Chinese app icon"></td>
   <td valign="middle"><strong>Say Chinese</strong> &nbsp; <code>iOS · In development</code><br>Mandarin practice with everyday dialogues, natural audio, pinyin, and daily review.</td>
@@ -56,12 +56,6 @@ Browse the full collection at **[zewail.org ↗](https://www.zewail.org/#work)**
   <td valign="middle"><strong>Little Art</strong> &nbsp; <code>iOS · In development</code><br>Save children's artwork with their stories and voice, then make a printable art book.</td>
 </tr>
 </table>
-
-## Open source
-
-- **[think-api](https://github.com/czewail/think-api)** · API tools for ThinkPHP, including versioned routes, response helpers, and JWT support.
-- **[koa2-api](https://github.com/czewail/koa2-api)** · Koa middleware for consistent REST API responses.
-- **[node-is-class](https://github.com/czewail/node-is-class)** · A small Node.js utility for checking whether a function is an ES6 class.
 
 ## Toolkit
 
